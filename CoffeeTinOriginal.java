@@ -74,7 +74,9 @@ public class CoffeeTinGame {
             }
         }
     }
-
+    // Don't see BeansBag? It's updated in the Assignment version. 
+    // randInt, getBean, updateTin are in here as well. 
+         
     /**
      * Performs the coffee tin game to determine the colour of the last bean
      *
