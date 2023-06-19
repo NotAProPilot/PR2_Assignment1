@@ -319,3 +319,5 @@ Process finished with exit code 0
 // Update 7: A lot of bugs. Haiyaa. Return to the original design/implementation for detail.
 awss
 ```
+## Grade update: 
+- Holy shit this assignment got a 9.5 out of 10. I sometimes have no idea how the world works. 
